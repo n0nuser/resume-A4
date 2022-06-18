@@ -1,0 +1,14 @@
+projects:
+- title: "Final Degree Project - Monitor"
+  # subtitle: "mertbakir.gitlab.io/resume"
+  # link: "https://gitlab.com/mertbakir/resume-a4"
+  date: "2021-2022"
+  details: |
+    Final Degree Project for Computer Ingeneering. A FastAPI based agent deployed on hosts that requiere monitoring, that sends requests to a Django-DRF web app that manages data and presents it. Web app is deployed with Nginx, Uvicorn, Redis and PostgreSQL in Docker containers."
+  links:
+  - title: Agent
+    url: https://github.com/n0nuser/monitor-agent
+    icon: fab fa-github
+  - title: Web Application
+    url: https://github.com/n0nuser/monitor
+    icon: fab fa-github

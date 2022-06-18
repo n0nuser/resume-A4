@@ -1,0 +1,85 @@
+about:
+  name: Pablo González
+  tagline: Python Developer
+  phone: ""
+  email: gonzrubio.pablo@gmail.com
+  links:
+    - title: /in/nonuser
+      url: https://linkedin.com/in/nonuser
+      icon: fab fa-linkedin
+    - title: n0nuser
+      url: https://github.com/n0nuser
+      icon: fab fa-github
+    - title: Website
+      url: https://nonuser.es/
+      icon: fas fa-globe
+  details: |
+    I'm a Unix System Administration and all Python passionate.
+    I do also love automatizing easy and complex tasks, and developing REST APIs to access data the easy way.
+
+
+skills:
+  - groupName: Development
+    list:
+      - Python - Bash
+      - Django - DRF - FastAPI - Flask
+
+  - groupName: Systems
+    list:
+      - Git - Github - Docker
+      - Linux - Ubuntu/Debian - Arch - Kali
+
+interests:
+  - Performance Optimization
+  - Code Refactoring
+  - Web Development
+  - Data Science
+
+hobbies:
+  - Fishkeeping 🐟
+  - Plants 🌿
+
+languages:
+  - name: Spanish
+    level: Native
+
+  - name: English
+    level: Professional
+    # certificates:
+    #   - ""
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Semifinalist II National CyberLeague"
+    date: "12.2020"
+    details: |
+          It consisted of a series of Capture the Flag challenges based primarily on forensic analysis.
+  - title: "17th finalist I National Cyberleague (National)"
+    date: "11.2019"
+    details: |
+          It consisted of a series of Capture the Flag challenges with a legal exposition of various topics.
+  - title: "Participant 1st Regional Cybersecurity Forum"
+    date: "09.2019"
+    details: |
+          It consisted of a series of Capture the Flag challenges based primarily on forensic analysis.
+    #subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #  - add more here if you like to.
+    #  - or just comment out/delete the field.
+    links:
+      - title: More information
+        url: https://pcs.usal.es/ciberejercicio-capture-the-flag/
+        # icon: fas fa-bolt
+        # prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+    #   - title: second link.
+    #     url: https://esdfdsfdsf
+    #     icon: "-" # you can get rid of the icon by entering dummy text
+    #     prefix: "omg"
+  - title: "1st Classified I National Cyberleague at USAL (Regional)"
+    date: "10.2018"
+
+certificates:
+  - title: "Python Core"
+    subtitle: SoloLearn
+    date: "2022"
+    link: https://www.sololearn.com/certificates/course/en/6641801/1073/landscape/png

@@ -1,0 +1,5 @@
+- name: "Bsc. Computer Ingeneering"
+  university: "University of Salamanca"
+  more: "Delegate in 2º and 3º year" # Optional field, if you want to add a non-standard line.
+  date: "2018 - 2022"
+  gpa : "2.70 / 4.00"

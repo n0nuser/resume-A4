@@ -1,0 +1,24 @@
+- company: Panelais
+  roles:
+    - role: IT assistant
+      details: "Microsoft SQL Server database management and integration with custom designed and implemented software to meet Panelais' management needs."
+      date: "03.2022 -  Present"
+
+- company: Sidisel Electrónica
+  roles: 
+    - role: Python Backend Developer
+      details: "Version control and incident management in Gitlab.
+              Deployment operation and management of microservices in Docker containers.
+              Integration of services to Django projects.
+              Implementation of transactions and basic information management processes in microservices based on Python/Django."
+      date: "01.2022 - 02.2022"
+    
+- company: Ecotisa
+  roles:
+    - role: System Administration Department
+      details: "Development of a client-server monitoring system for multiple hosts.
+              Script Development for Odoo ERP server deployment.
+              IT Helpdesk.
+              PC preparing for new workers.
+              General IT troubleshooting."
+      date: "07.2021 - 09.2021"
