@@ -26,5 +26,5 @@ git commit -m "$msg"
 printf "Commit message set: $msg"
 
 # Push source and build repos.
-git push origin master
+git push origin main
 printf "Commit pushed!"
