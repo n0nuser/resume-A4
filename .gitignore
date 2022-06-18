@@ -37,3 +37,6 @@ Thumbs.db
 
 # Local
 /_local
+
+.vscode/
+public/
