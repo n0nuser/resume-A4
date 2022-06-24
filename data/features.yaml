@@ -7,22 +7,27 @@ about:
     - title: /in/nonuser
       url: https://linkedin.com/in/nonuser
       icon: fab fa-linkedin
+    - title: n0nuser_
+      url: https://twitter.com/n0nuser_
+      icon: fab fa-twitter
     - title: n0nuser
       url: https://github.com/n0nuser
       icon: fab fa-github
     - title: nonuser.es
       url: https://nonuser.es/
       icon: fas fa-globe
+    - title: n0nuser
+      url: https://steamcommunity.com/id/n0nuser/
+      icon: fab fa-steam
   details: |
-    I'm a Unix System Administration and all Python passionate.
-    I do also love automatizing easy and complex tasks, and developing REST APIs to access data the easy way.
-
+    I'm a Linux and all Python passionate. I love developing Web Apps and REST APIs to access data the easy way.
 
 skills:
   - groupName: Development
     list:
       - Python · Bash
       - Django · DRF · FastAPI · Flask
+      - GoHugo · Netlify
 
   - groupName: Systems
     list:
@@ -42,6 +47,7 @@ interests:
 hobbies:
   - Fishkeeping 🐟
   - Plants 🌿
+  - Videogames 👾
 
 languages:
   - name: Spanish
