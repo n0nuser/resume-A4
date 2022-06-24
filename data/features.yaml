@@ -10,7 +10,7 @@ about:
     - title: n0nuser
       url: https://github.com/n0nuser
       icon: fab fa-github
-    - title: Website
+    - title: nonuser.es
       url: https://nonuser.es/
       icon: fas fa-globe
   details: |
@@ -21,19 +21,23 @@ about:
 skills:
   - groupName: Development
     list:
-      - Python - Bash
-      - Django - DRF - FastAPI - Flask
+      - Python · Bash
+      - Django · DRF · FastAPI · Flask
 
   - groupName: Systems
     list:
-      - Git - Github - Docker
-      - Linux - Ubuntu/Debian - Arch - Kali
+      - Git · Github · Docker
+      - Linux - Ubuntu/Debian · Arch · Kali
+
+  - groupName: Databases
+    list:
+      - MySQL · PostgreSQL · MS SQL Server
 
 interests:
   - Performance Optimization
   - Code Refactoring
   - Web Development
-  - Data Science
+  - Open Source
 
 hobbies:
   - Fishkeeping 🐟

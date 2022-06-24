@@ -4,7 +4,11 @@ projects:
   # link: "https://gitlab.com/mertbakir/resume-a4"
   date: "2021-2022"
   details: |
-    Final Degree Project for Computer Ingeneering. A FastAPI based agent deployed on hosts that requiere monitoring, that sends requests to a Django-DRF web app that manages data and presents it. Web app is deployed with Nginx, Uvicorn, Redis and PostgreSQL in Docker containers."
+    Final Degree Project for Computer Ingeneering.
+    A FastAPI based agent capable of command execution, deployed on hosts that require monitoring.
+    The agent sends requests to a Django/Django REST Framework web app that manages data and presents it.
+    The web app is deployed with Nginx and Uvicorn for the Web Server, Redis for the background tasks and PostgreSQL for the database. 
+    Deployment of the web app is done with Docker.
   links:
   - title: Agent
     url: https://github.com/n0nuser/monitor-agent
