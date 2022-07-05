@@ -5,8 +5,10 @@
 		{{ if $.Header.contact -}}
 			<span class="contact">
 				{{- with .phone -}}
-					{{- if $.useFontAwesome }}<i class="fas fa-phone-square-alt"></i> {{ end -}}
-					{{- . -}}
+					<a href="tel:{{- . -}}" class="no-external-icon">
+						{{- if $.useFontAwesome }}<i class="fas fa-phone-square-alt"></i> {{ end -}}
+						{{- . -}}
+					</a>
 				{{- end -}}
 				{{- if and .phone .email }} | {{ end -}}
 				{{- with .email -}}

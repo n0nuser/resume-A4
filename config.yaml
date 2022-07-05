@@ -52,7 +52,7 @@ params:
 
   header:
     avatar: avatar.jpeg
-    contact: false
+    contact: true
     tagline: true
     links: true
 
