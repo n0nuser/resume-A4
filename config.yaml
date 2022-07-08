@@ -1,6 +1,7 @@
 baseURL: "/"
 languageCode: "en-us"
 title: "Resume | Pablo González"
+author: "Pablo González"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 
 # Construct main column, side column and additional page from features
